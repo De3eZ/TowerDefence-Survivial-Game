@@ -1,0 +1,12 @@
+res://scene/world.tscn
+res://inventory/inv_ui_slot.gd
+res://script/apple_tree.gd
+res://script/slime.gd
+res://inventory/playerinventory.tres
+res://scene/player.tscn
+res://scene/ui.tscn
+res://scene/panel.tscn
+res://inventory/inv_ui_slot.tscn
+res://scene/apple_tree.tscn
+res://scene/Stage 1.tscn
+res://scene/slime.tscn
